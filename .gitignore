@@ -3,3 +3,10 @@
 ################################################################################
 
 /CompressModuel/bin/Debug
+/.vs/CompressModuel/v15/Server/sqlite3
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/CompressModuel.Contracts/obj/Debug
+/CompressModuel.Contracts/bin/Debug
+/packages
+/CompressModuel/obj

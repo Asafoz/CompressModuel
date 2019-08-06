@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressModuel", "CompressModuel\CompressModuel.csproj", "{D566BDA3-72AC-4F46-8DB6-2A1674066587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressModuel.Contracts", "CompressModuel.Contracts\CompressModuel.Contracts.csproj", "{1C30EEBC-CCB5-4B82-8404-429909557891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D566BDA3-72AC-4F46-8DB6-2A1674066587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D566BDA3-72AC-4F46-8DB6-2A1674066587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D566BDA3-72AC-4F46-8DB6-2A1674066587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D566BDA3-72AC-4F46-8DB6-2A1674066587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C30EEBC-CCB5-4B82-8404-429909557891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C30EEBC-CCB5-4B82-8404-429909557891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C30EEBC-CCB5-4B82-8404-429909557891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C30EEBC-CCB5-4B82-8404-429909557891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7BF582-50D4-4E23-9129-870B202D4B65}
+	EndGlobalSection
+EndGlobal
